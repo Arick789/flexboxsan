@@ -1,0 +1,17 @@
+pantalla de uso 		1
+flex superpowers		2
+direccion flexible filas	3
+filas tweet			4
+direccion flexible columna	5
+columna tweet			6
+justify-content			7
+justify-content tweet		8
+align-items			9
+align-items tweet		10
+flex-wrap			11
+flex-shrink			12
+flex-grow			13
+flex-basis			14
+taquigrafía flex		15
+order				16
+align-self 			17
